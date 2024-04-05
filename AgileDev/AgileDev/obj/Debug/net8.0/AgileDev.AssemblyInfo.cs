@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgileDev")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ca681f4ad3fb8d7632b3c4a841ef55621278e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b49e8ecfc05b925e21806b945049aed5ef13143")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgileDev")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgileDev")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

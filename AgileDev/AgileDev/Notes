@@ -1,0 +1,19 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/knighjl/agiledev.git
+git push -u origin main
+Reinitialized existing Git repository in /Users/Jason/projects/AgileDev/AgileDev/.git/
+[main 7b49e8e] first commit
+ 1 file changed, 1 insertion(+)
+error: remote origin already exists.
+Enter passphrase for key '/Users/Jason/.ssh/id_rsa': 
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Writing objects: 100% (3/3), 253 bytes | 253.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:knighjl/agiledev.git
+   ef87807..7b49e8e  main -> main
+branch 'main' set up to track 'origin/main'.
+
